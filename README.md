@@ -20,7 +20,7 @@
         <hr style="border: 0.5px solid #30363d;">
         
         <!-- About Me -->
-        <h4 style="color: #58a6ff;">📌 About Me</h4>
+        <h4 style="color: #58a6ff;">About Me</h4>
         <p>
           <strong>Location:</strong> Navi Mumbai, India<br>
           <strong>Specialization:</strong> AI/ML, IoT Engineering, Robotics<br>
