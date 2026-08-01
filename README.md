@@ -1,33 +1,35 @@
-<table>
-  <tr>
-    <!-- LEFT COLUMN: Your ASCII Art -->
-    <td width="50%" align="center" valign="middle">
-      <pre>
-      </pre>
-    </td>
-    
-    <!-- RIGHT COLUMN: Your Specialization & Info -->
-    <td width="50%" align="left" valign="middle">
-      <h2>Hello, I'm Krishna Vishwakarma</h2>
-      <h3>An AIML Engineer</h3>
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background-color: #0d1117;">
+
+  <table>
+    <tr>
+      <!-- LEFT COLUMN: Auto-Generated ASCII Avatar -->
+      <td width="45%" align="center" valign="middle">
+        <img src="https://neofetch-profile.vercel.app/api?username=kv-creates&theme=dark" alt="Neofetch Profile" width="100%"/>
+      </td>
       
-      <p>
-        <strong>Location:</strong> Navi Mumbai, India<br>
-        <strong>Current Role:</strong> Student, Pillai College of Arts, Commerce and Science<br>
-        <strong>Specialization:</strong> Artificial Intellegence and Machine Learning, IoT Engineering, Robotics.
-      </p>
-      
-      <h4>Core Tech Stack</h4>
-      <p>
-        <!-- Replace these with YOUR actual technologies -->
-        <strong>IDE:</strong> Arduino IDE, VS Code, Anaconda, R, Jupyter, Google Colab<br>
-        <strong>Languages:</strong> Java, Python, C, C++, R, HTML, CSS<br>
-        <strong>Libraries:</strong> Scikit-learn, PyTorch, Tensorflow, Keras, Hugging Face Transformers 
-      </p>
-      
-      <h4>GitHub Activity</h4>
-      <!-- These will dynamically show your real stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=kv-creates&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="400" />
-    </td>
-  </tr>
-</table>
+      <!-- RIGHT COLUMN: YOUR FIXED INFO -->
+      <td width="55%" align="left" valign="middle">
+        <h2 style="color: #58a6ff;">Hello, I'm Krishna Vishwakarma</h2>
+        <h3 style="color: #f0883e;">An AIML Engineer</h3>
+        
+        <p>
+          <strong>Location:</strong> Navi Mumbai, India<br>
+          <strong>Current Role:</strong> Student, Pillai College of Arts, Commerce and Science<br>
+          <strong>Specialization:</strong> AI/ML, IoT Engineering, Robotics
+        </p>
+        
+        <h4 style="color: #58a6ff;">Core Tech Stack</h4>
+        <p>
+          <strong>IDE:</strong> Arduino IDE, VS Code, Anaconda, Jupyter, Google Colab<br>
+          <strong>Languages:</strong> Java, Python, C, C++, R, HTML, CSS<br>
+          <strong>Libraries:</strong> Scikit-learn, PyTorch, TensorFlow, Keras, Hugging Face
+        </p>
+        
+        <h4 style="color: #58a6ff;">GitHub Activity</h4>
+        <!-- Fixed the broken image URL -->
+        <img src="https://github-readme-stats.vercel.app/api?username=kv-creates&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117" width="400" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
