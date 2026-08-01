@@ -2,7 +2,7 @@
 
   <table>
     <tr>
-      <!-- LEFT COLUMN: Clean ASCII Art (Your Avatar) -->
+      <!-- LEFT COLUMN: ASCII Avatar -->
       <td width="40%" align="center" valign="middle">
         <img src="https://neofetch-profile.vercel.app/api?username=kv-creates&theme=dark&show_icons=true" alt="ASCII Avatar" width="100%" />
         <br>
@@ -11,6 +11,7 @@
       
       <!-- RIGHT COLUMN: All Your Information -->
       <td width="60%" align="left" valign="middle">
+        
         <!-- Header -->
         <h1 style="color: #58a6ff; margin-bottom: 0;">Krishna Vishwakarma</h1>
         <h3 style="color: #f0883e; margin-top: 0;">AIML Engineer | he/him</h3>
@@ -42,6 +43,7 @@
           <a href="https://linkedin.com/in/krishna-vishwakarma-360b89374" style="color: #58a6ff;">LinkedIn</a><br>
           <a href="https://github.com/kv-creates" style="color: #58a6ff;">github.com/kv-creates</a>
         </p>
+        
       </td>
     </tr>
   </table>
